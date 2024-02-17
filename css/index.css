@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+*{
+    text-decoration: none;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./../image/background1.jpg);
+}
+header{
+    display: flex;
+    background-color: yellow;
+}
+.logo-img{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    border: 2px solid blue;
+}
+.heading{
+    color: red;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+}
+.hamburger{
+    float: left;
+    height: 40px;
+    width: 40px;
+    padding-top: 8px;
+    position: absolute;
+    right: 10px;
+    
+}
+/* navigation bar */
+.navigation{
+    display: flex;
+    background-color: orange;
+   
+    padding: 10px 10px;
+   justify-content: end;
+}
+.c {
+    margin-right: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+.c:hover{
+    color:blue;
+    text-decoration: underline;
+    
+}
+ /* navigation bar end */
+ol{
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+p{
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
