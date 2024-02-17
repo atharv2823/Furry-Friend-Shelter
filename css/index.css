@@ -67,3 +67,11 @@ p{
     font-style: normal;
     font-size: 20px;
 }
+/* footer */
+footer{
+    background-color: black;
+    width: 100%;
+}
+.contact{
+    color: white;
+}

@@ -49,3 +49,25 @@ header{
     
 }
  /* navigation bar end */
+
+ .dog-img{
+    height: 200px;
+    width: 250px;
+    border-radius: 20px 20px 0px 0px ;
+ }
+ .card{
+    width: 250px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 20px ;
+    text-align: center;
+ }
+ .btn-adop{
+    width: 100px ;
+    background-color: black;
+    color: white;
+    padding: 10px 15px ;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+
+ }
