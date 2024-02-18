@@ -49,3 +49,82 @@ header{
     
 }
  /* navigation bar end */
+
+ .dog-img{
+    height: 200px;
+    width: 250px;
+    border-radius: 20px 20px 0px 0px ;
+ }
+ .card{
+    width: 250px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 20px ;
+    text-align: center;
+ }
+ .btn-adop{
+    width: 100px ;
+    background-color: black;
+    color: white;
+    padding: 10px 15px ;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+
+ }
+ .page{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
+ /* footer */
+footer{
+    background-color: black;
+    width: 100%;
+}
+.contact{
+    color: white;
+}
+.H{
+    
+    font-weight: 100;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    padding-top: 10px;
+   text-align: center;
+}
+.footer-content{
+   justify-content: center;
+   padding-top: 10px;
+   font-family: "Anta", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.main-photo{
+    border: none;
+   margin-left: 400px;
+   
+}
+.container1{
+    color: white;
+    font-size: 20px;
+    margin-right: 100px;
+}
+.img-social{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.footer-container{
+    display: flex;
+    
+}
+.certified{
+    height: 200px;
+    margin-left: 150px;
+}
+/* Footer end */
